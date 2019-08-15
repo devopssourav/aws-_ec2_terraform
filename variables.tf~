@@ -1,7 +1,0 @@
-variable "aws_ssh_admin_key_file" { }
-variable "ami" {
-  default = "ami-1fb56d7f"
-}
-variable "aws_instance_type" {
-  default = "t2.micro"
-}
