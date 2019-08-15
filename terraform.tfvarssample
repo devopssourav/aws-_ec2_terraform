@@ -1,0 +1,4 @@
+aws_ssh_admin_key_file = "keys/aws_terraform"
+/* Terraform IAM Account */
+aws_access_key = ""
+aws_secret_key = ""
